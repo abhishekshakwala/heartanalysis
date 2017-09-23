@@ -1,0 +1,13 @@
+
+body{background-color:#1C2833;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    background-color:#F9EBEA;
+}
+h1.Heading{text-align: center;}
+div.center{
+    text-align:center;}
